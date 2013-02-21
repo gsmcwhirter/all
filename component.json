@@ -1,0 +1,13 @@
+{
+  "name": "all",
+  "repo": "gsmcwhirter/all",
+  "description": "Similar functionality to python's 'all' (see http://docs.python.org/2/library/functions.html#all)",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
