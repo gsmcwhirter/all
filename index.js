@@ -1,5 +1,5 @@
 
-module.exports = function (iter, testFunc, context){
+module.exports = function all(iter, testFunc, context){
   if (iter == null) return;
 
   if (typeof testFunc !== "function"){
